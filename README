@@ -1,0 +1,9 @@
+this is a mini compiler coded using PLY
+
+myLexer.py : contains the tokens and regular expressions
+myParser.py : contains the different rules of our parser
+main.py : parse our data and and print results
+app.py : A file editor made with Tkinter to execute the code 
+
+input.txt : an input example to test the code
+errorsinput.txt :for testing errors
