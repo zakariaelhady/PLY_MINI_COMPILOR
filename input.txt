@@ -1,0 +1,88 @@
+ara("STARTING PROGRAM");
+#########################OP
+C=5;
+C++;
+ara(C);
+A=2;
+ara(C-A);
+
+#######################IF-ELIF-ELSE
+igh(C-A>0){
+    ara("positif");
+}
+ighorili_igh(C-A==0){
+    ara("null");
+}
+ighorili{
+    ara("negatif");
+}
+
+
+
+################################FOR
+i=0;
+kaygat (i=1 ar 9){
+    ara(i);
+    }
+kaygat (i=1 ar 9,azmozl=4){
+    ara(i);
+    }
+
+#######################ARRAY
+array1=[];
+ara(array1);
+array1[0]=5;
+ara(array1);
+
+array2=[1,2,3];
+ara(array2);
+z=array2[0];
+ara(z);
+
+array3=[array2,array2];
+ara(array3);
+ara(array3[0][2]);
+
+########################FUNCTIONS
+i=0;
+tawori f{
+    ara("this is a function without args");
+    i++;
+}
+f();
+ara(i);
+j=2;
+tawori f<i,j>{
+    i++;
+    i=i+j;
+    rar(i);
+}
+f(i,j);
+
+#############################classes
+kism MYCLASS{
+    _3amm x=3;
+    _5ass y=5;
+}
+MYCLASS <s>;
+s.x;
+s.y;
+
+kism classfils ikossa MYCLASS{
+    _3amm var=2;
+}
+classfils <fils>;
+fils.var;
+fils.x;
+
+
+
+
+
+
+
+
+
+
+
+

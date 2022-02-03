@@ -1,0 +1,27 @@
+##############WHILE
+a=0;
+ma7da(a==0){
+ara(a);
+}
+##############division by zero
+ara(5/0);
+########call function without declaration
+a();
+#############################classes
+MYCLASS2 <obj>;
+obj.x;
+
+kism MYCLASS{
+    _3amm x=3;
+    _5ass y=5;
+}
+MYCLASS <s>;
+s.z;
+###
+#ginfo;
+
+
+
+
+
+
